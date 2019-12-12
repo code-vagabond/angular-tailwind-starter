@@ -1,4 +1,8 @@
-# AngularTailwind
+# Angular with TailwindCSS
+
+Porting a Gatsby Starter to Angular
+
+Source: https://github.com/codebushi/gatsby-starter-lander
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
